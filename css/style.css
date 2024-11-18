@@ -4,9 +4,15 @@
     background-image:url(../img/pattern.png);
     background-repeat: repeat;
     background-position: center;
+    background-size: contain;
     background-color:rgb(80, 173, 205);
+    height: 80px;
 
     
+}
+
+.logo {
+    margin-top: 30px;
 }
 .sottoscrizione {
     font-family: 'Times New Roman', Times, serif;
@@ -38,6 +44,34 @@ thead {
 tfoot,.primo-body {
     background-color: rgb(156, 243, 243);
 
+}
+.w25 {
+    width: 25%;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.monitor {
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    font-size: 20px;
+    color: white;
+
+}
+
+.graph {
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    font-size: 20px;
+    color: white;
 }
 
 
