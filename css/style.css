@@ -19,6 +19,11 @@
     color: rgb(46, 108, 129);
 }
 
+.frase-evidenza {
+    background-color: yellow;
+
+}
+
 .info-dettagliate{
     font-size: small;
     color: gray;
