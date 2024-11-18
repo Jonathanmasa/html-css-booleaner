@@ -1,0 +1,26 @@
+/* header */
+
+.sfondo-logo {
+    background-image:url(../img/pattern.png);
+    background-repeat: repeat;
+    background-position: center;
+    background-color:rgb(80, 173, 205);
+
+    
+}
+.sottoscrizione-iniziale {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: large;
+    color: grey;
+}
+
+.parola-evidenza {
+    color: rgb(46, 108, 129);
+}
+
+.info-dettagliate{
+    font-size: small;
+    color: gray;
+}
+
