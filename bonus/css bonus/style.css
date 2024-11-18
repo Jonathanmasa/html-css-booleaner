@@ -1,0 +1,98 @@
+/* header */
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.sfondo-logo {
+    background-image:url(../img.bonus/pattern.png);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: contain;
+    background-color:rgb(80, 173, 205);
+    height: 80px;
+
+}
+
+.logo {
+    margin-top: 30px;
+}
+.sottoscrizione {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: large;
+    color: grey;
+    margin-top: 0%;
+    
+}
+
+.parola-evidenza {
+    color: rgb(46, 108, 129);
+}
+
+.frase-evidenza {
+    background-color: yellow;
+
+}
+
+.info-dettagliate{
+    font-size: small;
+    color: gray;
+
+}
+
+.descrizione-foto2 {
+    margin-bottom: 40px;
+}
+
+table {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+thead {
+    background-color: rgb(112, 197, 239);
+}
+
+tfoot,.primo-body {
+    background-color: rgb(156, 243, 243);
+
+}
+.w25 {
+    width: 25%;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.titolo-finale {
+    margin-top: 40px
+}
+
+
+.monitor {
+    background-image: url(../img.bonus/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+
+}
+
+.graph {
+    background-image: url(../img.bonus/graph.jpg);
+    width: 250px;
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
+
+
