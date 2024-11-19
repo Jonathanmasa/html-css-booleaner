@@ -1,7 +1,9 @@
 /* header */
-body {
-    margin-left: 10%;
-    margin-right: 10%;
+
+
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .sfondo-logo {
@@ -17,6 +19,7 @@ body {
 .logo {
     margin-top: 30px;
 }
+/* main */
 .sottoscrizione {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
@@ -25,7 +28,7 @@ body {
     margin-top: 0%;
     
 }
-
+ 
 .parola-evidenza {
     color: rgb(46, 108, 129);
 }
@@ -68,6 +71,7 @@ tfoot,.primo-body {
     width: 50%;
 }
 
+/* foot */
 .titolo-finale {
     margin-top: 40px
 }
