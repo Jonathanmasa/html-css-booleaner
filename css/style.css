@@ -20,6 +20,10 @@
     font-size: large;
     color: grey;
 }
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
 
 .parola-evidenza {
     color: rgb(46, 108, 129);
@@ -51,6 +55,7 @@ tfoot,.primo-body {
 
 .w50 {
     width: 50%;
+    
 }
 
 .monitor {
